@@ -1,0 +1,38 @@
+.idea
+vendor/
+
+composer.phar
+clover.xml
+coveralls-upload.json
+phpunit.xml
+
+access.log
+error.log
+
+Будет удалено .gitignore
+Будет удалено LICENSE.md
+Будет удалено README.md
+Будет удалено access.log
+Будет удалено bin/
+Будет удалено composer.json
+Будет удалено composer.lock
+Будет удалено config/.gitignore
+Будет удалено config/autoload/.gitignore
+Будет удалено config/autoload/dependencies.global.php
+Будет удалено config/autoload/development.local.php.dist
+Будет удалено config/autoload/local.php.dist
+Будет удалено config/autoload/zend-expressive.global.php
+Будет удалено config/config.php
+Будет удалено config/container.php
+Будет удалено config/development.config.php.dist
+Будет удалено config/pipeline.php
+Будет удалено config/routes.php
+Будет удалено data/.gitignore
+Будет удалено data/cache/
+Будет удалено error.log
+Будет удалено phpcs.xml.dist
+Будет удалено phpunit.xml.dist
+Будет удалено public_html/
+Будет удалено src/
+Будет удалено templates/
+Будет удалено test/
